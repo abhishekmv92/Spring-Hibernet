@@ -1,6 +1,6 @@
 <html>
 <body>
-<title>simple</title>
+<title><b>simple</title>
 </body>
 
 </html>
